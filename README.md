@@ -11,5 +11,7 @@ https://sourceforge.net/projects/calcpi/
 In order to compile run in Terminal:
 
 cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=/usr
+
 make
+
 ./calc_pi
